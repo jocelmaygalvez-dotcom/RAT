@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>K to 12 Curriculum Guide - Oral Communication in Context</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.5;
+            color: #333;
+            margin: 20px;
+            background-color: #f9f9f9;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 30px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        header {
+            border-bottom: 2px solid #0056b3;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        h1 {
+            font-size: 20px;
+            margin: 0;
+            color: #0056b3;
+            text-transform: uppercase;
+        }
+        h2 {
+            font-size: 16px;
+            margin: 5px 0 15px 0;
+            color: #555;
+        }
+        .info-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+            margin-bottom: 20px;
+            font-size: 14px;
+        }
+        .info-grid div {
+            padding: 4px 0;
+        }
+        .description {
+            background-color: #eef6ff;
+            padding: 12px;
+            border-left: 4px solid #0056b3;
+            margin-bottom: 25px;
+            font-size: 14px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 30px;
+            font-size: 13px;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 8px 10px;
+            vertical-align: top;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+        .code-col {
+            white-space: nowrap;
+            font-family: monospace;
+            font-weight: bold;
+        }
+        .section-header {
+            background-color: #e9ecef;
+            font-weight: bold;
+            text-align: left;
+        }
+        ul, ol {
+            margin: 0;
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 4px;
+        }
+        .glossary-item {
+            margin-bottom: 15px;
+        }
+        .glossary-item dt {
+            font-weight: bold;
+            color: #0056b3;
+        }
+        .glossary-item dd {
+            margin-left: 0;
+            margin-top: 4px;
+            font-size: 13.5px;
+        }
+        .legend-table {
+            width: 100%;
+            margin-top: 15px;
+        }
+        .legend-table th, .legend-table td {
+            padding: 6px 10px;
+        }
+        footer {
+            margin-top: 40px;
+            font-size: 11px;
+            color: #777;
+            text-align: right;
+            border-top: 1px solid #ddd;
+            padding-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>K to 12 BASIC EDUCATION CURRICULUM</h1>
+        <h2>SENIOR HIGH SCHOOL — CORE SUBJECT</h2>
+    </header>
+
+    <div class="info-grid">
+        <div><strong>Grade:</strong> 11/12</div>
+        <div><strong>Semester:</strong> 1st Semester</div>
+        <div><strong>Core Subject Title:</strong> Oral Communication in Context</div>
+        <div><strong>No. of Hours/Semester:</strong> 80 hours / semester</div>
+        <div><strong>Pre-requisite (if needed):</strong> None</div>
+    </div>
+
+    <div class="description">
+        <strong>Core Subject Description:</strong> The development of listening and speaking skills and strategies for effective communication in various situations[cite: 1].
+    </div>
+
+    <h3>Curriculum Map / Learning Competencies</h3>
+    <table>
+        <thead>
+            <tr>
+                <th style="width: 20%;">CONTENT</th>
+                <th style="width: 20%;">CONTENT STANDARD</th>
+                <th style="width: 20%;">PERFORMANCE STANDARD</th>
+                <th style="width: 25%;">LEARNING COMPETENCIES</th>
+                <th style="width: 15%;">CODE</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- OC11.1 -->
+            <tr>
+                <td rowspan="8">
+                    <strong>OC11.1 Nature and Elements of Communication</strong>[cite: 1]<br><br>
+                    1. Definition[cite: 1]<br>
+                    2. The Process of Communication[cite: 1]<br>
+                    3. Communication Models[cite: 1]<br>
+                    4. Five Elements of Communication[cite: 1]<br>
+                    5. Verbal and Non-Verbal Communication[cite: 1]<br>
+                    6. Effective Communication Skills[cite: 1]<br>
+                    7. Intercultural Communication[cite: 1]<br><br>
+                    <em>6 hours (1 week, 2 days)</em>[cite: 1]
+                </td>
+                <td rowspan="8">understands the nature and elements of oral communication in context.[cite: 1]</td>
+                <td rowspan="8">designs and performs effective controlled and uncontrolled oral communication activities based on context.[cite: 1]</td>
+                <td>1. Defines communication.[cite: 1]</td>
+                <td class="code-col">EN11/12OC-Ia-1</td>
+            </tr>
+            <tr>
+                <td>2. Explains the nature and process of communication.[cite: 1]</td>
+                <td class="code-col">EN11/12OC-Ia-2</td>
+            </tr>
+            <tr>
+                <td>3. Differentiates the various models of communication.[cite: 1]</td>
+                <td class="code-col">EN11/12OC-Ia-3</td>
+            </tr>
+            <tr>
+                <td>4. Distinguishes the unique feature(s) of one communication process from the other.[cite: 1]</td>
+                <td class="code-col">EN11/12OC-Ia-4</td>
+            </tr>
+            <tr>
+                <td>5. Explains why there is a breakdown of communication.[cite: 1]</td>
+                <td class="code-col">EN11/12OC-Ia-5</td>
+            </tr>
+            <tr>
+                <td>6. Uses various strategies in order to avoid communication breakdown.[cite: 1]</td>
+                <td class="code-col">EN11/12OC-Ia-6</td>
+            </tr>
+            <tr>
+                <td>7. Demonstrates sensitivity to the socio-cultural dimension of communication situation with focus on:[cite: 1]</td>
+                <td class="code-col">EN11/12OC-Ia-7</td>
+            </tr>
+            <tr>
+                <td>
+                    a. culture[cite: 1]<br>
+                    b. gender[cite: 1]<br>
+                    c. age[cite: 2]<br>
+                    d. social status[cite: 2]<br>
+                    e. religion[cite: 2]
+                </td>
+                <td class="code-col">
+                    EN11/12OC-Ia-7.1<br>
+                    EN11/12OC-Ia-7.2<br>
+                    EN11/12OC-Ia-7.3<br>
+                    EN11/12OC-Ia-7.4<br>
+                    EN11/12OC-Ia-7.5
+                </td>
+            </tr>
+
+            <!-- OC11.2 -->
+            <tr>
+                <td rowspan="7">
+                    <strong>OC11.2 Functions Of Communication</strong>[cite: 2]<br><br>
+                    1. Regulation/Control[cite: 2]<br>
+                    2. Social Interaction[cite: 2]<br>
+                    3. Motivation[cite: 2]<br>
+                    4. Information[cite: 2]<br>
+                    5. Emotional Expression[cite: 2]<br><br>
+                    <em>16 hours (4 weeks)</em>[cite: 2]
+                </td>
+                <td rowspan="7">values the functions/purposes of oral communication.[cite: 2]</td>
+                <td rowspan="7">writes a 250-word essay of his/her objective observation and evaluation of the various speakers watched and listened to[cite: 2]</td>
+                <td>1. Discusses the functions of communication.[cite: 2]</td>
+                <td class="code-col">EN11/12OC-Ibe-8</td>
+            </tr>
+            <tr>
+                <td>2. Identifies the speaker's purpose(s).[cite: 2]</td>
+                <td class="code-col">EN11/12OC-Ibe-9</td>
+            </tr>
+            <tr>
+                <td>3. Watches and listens to sample oral communication activities.[cite: 2]</td>
+                <td class="code-col">EN11/12OC-Ibe-10</td>
+            </tr>
+            <tr>
+                <td>4. Ascertains the verbal and nonverbal cues that each speaker uses to achieve his/her purpose.[cite: 2]</td>
+                <td class="code-col">EN11/12OC-Ibe-11</td>
+            </tr>
+            <tr>
+                <td>5. Comprehends various kinds of oral texts.[cite: 2]</td>
+                <td class="code-col">EN11/12OC-Ibe-12</td>
+            </tr>
+            <tr>
+                <td>6. Identifies strategies used by each speaker to convey his/her ideas effectively.[cite: 2]</td>
+                <td class="code-col">EN11/12OC-Ibe-13</td>
+            </tr>
+            <tr>
+                <td>7. Evaluates the effectiveness of an oral communication activity.[cite: 2]</td>
+                <td class="code-col">EN11/12OC-Ibe-14</td>
+            </tr>
+
+            <!-- EN110C-If / Communicative Competence Strategies -->
+            <tr>
+                <td rowspan="8">
+                    <strong>Communicative Competence Strategies In Various Speech Situations</strong>[cite: 2]<br><br>
+                    <strong>A. Types of Speech Context</strong>[cite: 2]<br>
+                    1. Intrapersonal[cite: 2]<br>
+                    2. Interpersonal (a.1 Dyad, a.2 Small group)[cite: 2]<br>
+                    3. Public[cite: 2]<br><br>
+                    <strong>B. Types of Speech Style</strong>[cite: 2]<br>
+                    1. Intimate[cite: 2], 2. Casual[cite: 3], 3. Consultative[cite: 3], 4. Formal[cite: 3], 5. Frozen[cite: 3]<br><br>
+                    <strong>C. Types of Speech Act</strong>[cite: 3]<br>
+                    1. Locution (Utterance)[cite: 3], 2. Illocution (Intention)[cite: 3], 3. Perlocution (Response)[cite: 3]<br><br>
+                    <em>20 hours (5 weeks)</em>[cite: 3]<br><br>
+                    <strong>D. Types of Communicative Strategy</strong>[cite: 3]<br>
+                    1. Nomination[cite: 3], 2. Restriction[cite: 3], 3. Turn-taking[cite: 3], 4. Topic control[cite: 3], 5. Topic shifting[cite: 3], 6. Repair[cite: 3], 7. Termination[cite: 3]<br><br>
+                    <em>16 hours (4 weeks)</em>[cite: 3]
+                </td>
+                <td rowspan="8">recognizes that communicative competence requires understanding of speech context, speech style, speech act and communicative strategy.[cite: 2, 3]</td>
+                <td rowspan="8">demonstrates effective use of communicative strategy in a variety of speech situations.[cite: 2, 3]</td>
+                <td>1. Identifies the various types of speech context[cite: 2]</td>
+                <td class="code-col">EN11/12OC-Ifj-15</td>
+            </tr>
+            <tr>
+                <td>2. Exhibits appropriate verbal and non-verbal behavior in a given speech context[cite: 2]</td>
+                <td class="code-col">EN11/12OC-Ifj-16</td>
+            </tr>
+            <tr>
+                <td>3. Distinguishes types of speech style[cite: 2]</td>
+                <td class="code-col">EN11/12OC-Ifj-17</td>
+            </tr>
+            <tr>
+                <td>4. Identifies social situations in which each speech style is appropriate to use[cite: 3]</td>
+                <td class="code-col">EN11/12OC-Ifj-18</td>
+            </tr>
+            <tr>
+                <td>5. Observes the appropriate language forms in using a particular speech style[cite: 3]</td>
+                <td class="code-col">EN11/12OC-Ifj-19</td>
+            </tr>
+            <tr>
+                <td>6. Responds appropriately and effectively to a speech act[cite: 3]</td>
+                <td class="code-col">EN11/12OC-Ifj-20</td>
+            </tr>
+            <tr>
+                <td>7. Engages in a communicative situation using acceptable, polite and meaningful communicative strategies[cite: 3]</td>
+                <td class="code-col">EN11/12OC-IIab-21</td>
+            </tr>
+            <tr>
+                <td>
+                    8. Explains that a shift in speech context, speech style, speech act and communicative strategy affects the following:[cite: 3]<br>
+                    • Language form[cite: 3]<br>
+                    • Duration of interaction[cite: 3]<br>
+                    • Relationship of speaker[cite: 3]<br>
+                    • Role and responsibilities of the speaker[cite: 3]<br>
+                    • Message[cite: 3]<br>
+                    • Delivery[cite: 3]
+                </td>
+                <td class="code-col">
+                    EN11/12OC-IIab-22<br>
+                    EN11/12OC-IIab-22.1<br>
+                    EN11/12OC-IIab-22.2<br>
+                    EN11/12OC-IIab-22.3<br>
+                    EN11/12OC-IIab-22.4<br>
+                    EN11/12OC-IIab-22.5<br>
+                    EN11/12OC-IIab-22.6
+                </td>
+            </tr>
+
+            <!-- OC11.4 -->
+            <tr>
+                <td rowspan="4">
+                    <strong>OC11.4 Types of Speeches</strong>[cite: 3]<br><br>
+                    <strong>A. According to purpose</strong>[cite: 3]<br>
+                    • Expository/Informative Speech[cite: 3]<br>
+                    • Persuasive Speech[cite: 3]<br>
+                    • Entertainment Speech[cite: 4]<br><br>
+                    <strong>B. According to delivery</strong>[cite: 4]<br>
+                    • Reading from a manuscript[cite: 4]<br>
+                    • Memorized Speech[cite: 4]<br>
+                    • Impromptu Speech[cite: 4]<br>
+                    • Extemporaneous Speech[cite: 4]<br><br>
+                    <strong>C. Principles of Speech Writing</strong>[cite: 4]<br>
+                    • Choosing the Topic[cite: 4]<br>
+                    • Analyzing the Audience[cite: 4]<br>
+                    • Sourcing the Information[cite: 4]<br>
+                    • Outlining and Organizing the Speech Contents[cite: 4]<br><br>
+                    <strong>D. Principles of Speech Delivery</strong>[cite: 4]<br><br>
+                    <em>30 hours (7 1/2 weeks)</em>[cite: 4]
+                </td>
+                <td rowspan="4">realizes the rigors of crafting one's speech.[cite: 3]</td>
+                <td rowspan="4">proficiently delivers various speeches using the principles of effective speech delivery[cite: 3]</td>
+                <td>1. Distinguishes types of speeches.[cite: 3]</td>
+                <td class="code-col">EN11/12OC-IIcj-23</td>
+            </tr>
+            <tr>
+                <td>2. Uses principles of effective speech delivery in different situations.[cite: 4]</td>
+                <td class="code-col">EN11/12OC-IIcj-24</td>
+            </tr>
+            <tr>
+                <td>
+                    3. Uses principles of effective speech writing focusing on:[cite: 4]<br>
+                    • Audience profile[cite: 4]<br>
+                    • Logical organization[cite: 4]<br>
+                    • Duration[cite: 4]<br>
+                    • Word choice[cite: 4]<br>
+                    • Grammatical correctness[cite: 4]
+                </td>
+                <td class="code-col">
+                    EN11/12OC-IIcj-25<br>
+                    EN11/12OC-IIcj-25.1<br>
+                    EN11/12OC-IIcj-25.2<br>
+                    EN11/12OC-IIcj-25.3<br>
+                    EN11/12OC-IIcj-25.4<br>
+                    EN11/12OC-IIcj-25.5
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    4. Uses principles of effective speech delivery focusing on:[cite: 4]<br>
+                    • Articulation[cite: 4]<br>
+                    • Modulation[cite: 4]<br>
+                    • Stage Presence[cite: 4]<br>
+                    • Facial Expressions, Gestures and Movements[cite: 4]<br>
+                    • Rapport with the audience[cite: 4]
+                </td>
+                <td class="code-col">
+                    EN11/12OC-IIcj-26<br>
+                    EN11/12OC-IIcj-26.1<br>
+                    EN11/12OC-IIcj-26.2<br>
+                    EN11/12OC-IIcj-26.3<br>
+                    EN11/12OC-IIcj-26.4<br>
+                    EN11/12OC-IIcj-26.5
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <hr style="border: 0; border-top: 1px solid #ccc; margin: 30px 0;">
+
+    <h3>GLOSSARY</h3>
+    <dl>
+        <div class="glossary-item">
+            <dt>Extemporaneous Speech / Speaking extemporaneously</dt>
+            <dd>When you speak extemporaneously you are literally making up the words of your speech as you go[cite: 5]. That does not mean that you do no preparation[cite: 5]. Rather, as you rehearse, you work from an outline or speaker notes that remind you of the progression of ideas in your speech[cite: 5].</dd>
+        </div>
+        <div class="glossary-item">
+            <dt>Impromptu Speech</dt>
+            <dd>An impromptu speech is given with little or no preparation, usually about a topic that the speaker knows so well[cite: 5].</dd>
+        </div>
+        <div class="glossary-item">
+            <dt>Intercultural Communication</dt>
+            <dd>Is the sending and receiving of messages across languages and cultures[cite: 5]. It is also a negotiated understanding of meaning in human experiences across social systems and societies (Arent, 2009)[cite: 5]. It is a form of global communication[cite: 5]. It is used to describe the wide range of communication problems that naturally appear within an organization made up of individuals from different religious, social, ethnic, and educational backgrounds[cite: 5].</dd>
+        </div>
+        <div class="glossary-item">
+            <dt>Memorized Speech / Presenting from memory</dt>
+            <dd>Unless you have had training and practice memorizing long passages of text, the memorized mode is the hardest to pull off[cite: 5]. Freed from a manuscript or notes, you are likely to have the added anxiety of forgetting what you wanted to say[cite: 5]. A memorized speech can also sound "canned" and lacking in spontaneity[cite: 5].</dd>
+        </div>
+        <div class="glossary-item">
+            <dt>Process of communication</dt>
+            <dd>According to Niklas Luhmann, communication is the operation, which (re-)produces social systems, it is the central last element (specific operation) for the definition and the retention of society[cite: 5]. Communication is a synthesis of three components: message, information and understanding: communication comes into being, when its understood that an information is imparted[cite: 5].</dd>
+        </div>
+        <div class="glossary-item">
+            <dt>Reading from a manuscript / Speaking from a manuscript</dt>
+            <dd>According to communication expert Terrence Doyle, reading from a manuscript is the most formal type of delivery[cite: 5]. It is also an effective choice when you want to have the greatest control of the wording of your speech[cite: 5]. You will probably use a manuscript when speaking on a highly sensitive topic for which it is important to have precise wording[cite: 5].</dd>
+        </div>
+        <div class="glossary-item">
+            <dt>Speech Act</dt>
+            <dd>In linguistics and the philosophy of language, it is an utterance that has performative function in language and communication[cite: 6]. An utterance considered as an action, particularly with regard to its intention, purpose, or effect[cite: 6]. It is what a speaker does in uttering a sentence[cite: 6]. According to Austin (1962), when uttering a sentence, a speaker is involved in three different speech acts: a locutionary act, an illocutionary act and a perlocutionary act[cite: 6].</dd>
+        </div>
+    </dl>
+
+    <hr style="border: 0; border-top: 1px solid #ccc; margin: 30px 0;">
+
+    <h3>CODE BOOK LEGEND</h3>
+    <p><strong>Sample Code: EN11/12OC-Ia-1</strong>[cite: 7]</p>
+    
+    <table class="legend-table">
+        <thead>
+            <tr>
+                <th colspan="2">LEGEND</th>
+                <th>SAMPLE</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>First Entry</td>
+                <td>Learning Area and Strand/ Subject or Specialization</td>
+                <td>English Grade 11/12 (<strong>EN11/12</strong>)[cite: 7]</td>
+            </tr>
+            <tr>
+                <td>Uppercase Letter/s</td>
+                <td>Domain/Content/ Component/ Topic</td>
+                <td>Oral Communication in Context (<strong>OC</strong>)[cite: 7]</td>
+            </tr>
+            <tr>
+                <td>Roman Numeral<br><small>*Zero if no specific quarter</small></td>
+                <td>Quarter</td>
+                <td>First Quarter (<strong>I</strong>)[cite: 7]</td>
+            </tr>
+            <tr>
+                <td>Lowercase Letter/s<br><small>*Put a hyphen (-) in between letters to indicate more than a specific week</small></td>
+                <td>Week</td>
+                <td>Week one (<strong>a</strong>)[cite: 7]</td>
+            </tr>
+            <tr>
+                <td>Arabic Number</td>
+                <td>Competency</td>
+                <td>Defines communication (<strong>1</strong>)[cite: 7]</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <footer>
+        K to 12 Senior High School Core Curriculum - Oral Communication in Context (December 2013)[cite: 1, 2, 3, 4, 6, 7]
+    </footer>
+</div>
+
+</body>
+</html>
